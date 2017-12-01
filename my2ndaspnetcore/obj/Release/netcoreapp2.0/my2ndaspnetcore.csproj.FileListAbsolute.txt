@@ -1,0 +1,10 @@
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\bin\Release\netcoreapp2.0\my2ndaspnetcore.deps.json
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\bin\Release\netcoreapp2.0\my2ndaspnetcore.runtimeconfig.json
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\bin\Release\netcoreapp2.0\my2ndaspnetcore.runtimeconfig.dev.json
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\bin\Release\netcoreapp2.0\my2ndaspnetcore.dll
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\bin\Release\netcoreapp2.0\my2ndaspnetcore.pdb
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\obj\Release\netcoreapp2.0\my2ndaspnetcore.csproj.CoreCompileInputs.cache
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\obj\Release\netcoreapp2.0\my2ndaspnetcore.AssemblyInfoInputs.cache
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\obj\Release\netcoreapp2.0\my2ndaspnetcore.AssemblyInfo.cs
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\obj\Release\netcoreapp2.0\my2ndaspnetcore.dll
+C:\_HD\Docker\Tutorials\my2ndaspnetcore\my2ndaspnetcore\obj\Release\netcoreapp2.0\my2ndaspnetcore.pdb
